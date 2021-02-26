@@ -7,7 +7,7 @@ Version 0.5 unterstützt die Einrichtung mehrerer Benutzer in einem Durchgang.
 * Benutzer UI Reagiert nicht während der Einrichtung
 * Die Liste der Benutzer von Welchen die Daten bereits eingetragen wurden reagiert nicht auf Änderungen. Diese Funktion wenn möglich nicht benutzen.
 * Die Migration eines Benutzers in die Cloud kann eventuell Fehlschlagen und wird Übersprungen.
-* Raumpostfächer werden nicht umgewandelt
+* Raumpostfächer werden in einigen Fällen nicht umgewandelt
 * Wird versucht ein Benutzer zu erstellen dessen UPN schon existiert gibt es Armageddon
 * Raumpostfächer werden der Gruppe *WM* oder *StuPra* zugewiesen
 
