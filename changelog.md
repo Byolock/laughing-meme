@@ -1,6 +1,6 @@
 ## 0.5 Multibenutzerupdate
 
-Version 0.5 unterstützt dein Einrichtung mehrerer Benutzer in einem Durchgang.
+Version 0.5 unterstützt die Einrichtung mehrerer Benutzer in einem Durchgang.
 
 ## Known Bugs
 
